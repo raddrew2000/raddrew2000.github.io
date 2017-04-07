@@ -1,0 +1,209 @@
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Mushroom/Sausage Flatbread</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$5.50</span>
+										<div class="clearfix"></div>
+									</div>
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Curleys Burger Style Flatbread</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$6.95</span>
+										<div class="clearfix"></div>
+									</div>
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Margarita Flatbread</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$5.50</span>
+										<div class="clearfix"></div>
+									</div>
+									<div class="menu-list-item border-zero">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">BBQ Chicken Flatbread</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$6.95</span>
+										<div class="clearfix"></div>
+									</div>
+
+
+									<div class="col-md-4 col-sm-6 col-sm-2-offset">
+								<!-- Inner page menu list -->
+								<div class="menu-list" id="lunchstart">
+									<!-- Menu item heading -->
+									<h3>Healthy Options</h3>
+									<!-- Image for menu list -->
+									<img class="img" width="100%"  src="img/salad1.jpg" alt="" />
+									<!-- Menu list items -->
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left"> First Southwestern Chicken Breast</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$6.50</span>
+										<div class="clearfix"></div>
+									</div>
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Crispy Chicken Breast Salad</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$6.95</span>
+										<div class="clearfix"></div>
+									</div>
+									<!-- Menu list items -->
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Blackened Chicken Caesar</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$6.50</span>
+										<div class="clearfix"></div>
+									</div>
+									<!-- Menu list items -->
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Chef Salad</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$7.50</span>
+										<p></br>Chicken or Vegetable. Served with peanut Sauce</p>
+										<div class="clearfix"></div>
+									</div>
+									<!-- Menu list items -->
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Grilled BBQ Chicken Breast</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$8.50</span>
+										<p></br>Beef or Chicken. Served with Salsa and Guacamole</p>
+										<div class="clearfix"></div>
+									</div>
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Cobb Salad</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$6.50</span>
+										<div class="clearfix"></div>
+									</div>
+									<!-- Menu list items -->
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">BBQ Pulled Pork Salad</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$12.95</span>
+										<div class="clearfix"></div>
+									</div>
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Teriyaki Chicken</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$9.95</span>
+										<div class="clearfix"></div>
+									</div>
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Tuna Salad</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$9.95</span>
+										<div class="clearfix"></div>
+									</div>
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Dinner Salad</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$8.95</span>
+										<div class="clearfix"></div>
+									</div>
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Mozzarella Cheese Sticks</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$8.95</span>
+										<div class="clearfix"></div>
+									</div>
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Onion Rings</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$7.95</span>
+										<div class="clearfix"></div>
+									</div>
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Sampler Platter</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$12.95</span>
+										<p></br>4 Hot Wings, Jalapeno Poppers, Mozzarella Sticks, 6 Onion Rings, and a Cheese Quesadilla. #PlatLife</p>
+										<div class="clearfix"></div>
+									</div>
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Hummus Plate</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$6.50</span>
+										<div class="clearfix"></div>
+									</div>
+									<div class="menu-list-item">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Chips and Salsa</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$5.50</span>
+										<div class="clearfix"></div>
+									</div>
+									<div class="menu-list-item border-zero">
+										<!-- Heading / Dish name -->
+										<h4 class="pull-left">Potato Skins</h4>
+										<!-- Dish price -->
+										<span class="price pull-right">$6.95</span>
+										<div class="clearfix"></div>
+									</div>
+								</div>
+							</div>
+
+
+
+							<div class="tp-caption customin customout"
+								data-x="right" data-hoffset="-50"
+								data-y="100"
+								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+								data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+								data-speed="400"
+								data-start="3600"
+								data-easing="Power3.easeInOut"
+								data-endspeed="300"
+								style="z-index: 5"><img class="slide-img img-responsive" src="img/slider/sign.jpg" alt="" />
+							</div>
+							<!-- LAYER NR. 3.1 -->
+							<div class="tp-caption customin customout"
+								data-x="right" data-hoffset="-120"
+								data-y="130"
+								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+								data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+								data-speed="400"
+								data-start="3900"
+								data-easing="Power3.easeInOut"
+								data-endspeed="300"
+								style="z-index: 6"><img class="slide-img img-responsive" src="img/slider/break.jpg" alt="" />
+							</div>
+							<!-- LAYER NR. 3.2 -->
+							<div class="tp-caption customin customout"
+								data-x="right" data-hoffset="-10"
+								data-y="160"
+								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+								data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+								data-speed="400"
+								data-start="4200"
+								data-easing="Power3.easeInOut"
+								data-endspeed="300"
+								style="z-index: 7"><img class="slide-img img-responsive" src="img/slider/bar.jpg" alt="" />
+							</div>
+							<!-- LAYER NR. 3.3 -->
+							<div class="tp-caption customin customout"
+								data-x="right" data-hoffset="-80"
+								data-y="190"
+								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+								data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+								data-speed="400"
+								data-start="4500"
+								data-easing="Power3.easeInOut"
+								data-endspeed="300"
+								style="z-index: 8"><img class="slide-img img-responsive" src="img/slider/drank.jpg" alt="" />
+							</div>
