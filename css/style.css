@@ -305,7 +305,7 @@ table { background: #fff; }
 }
 
 .header .navbar-default .navbar-nav>li>a img{
-	max-width: 60px;
+	width: 60px;
 	height: 40px;
 	margin: 0px auto;
 	margin-bottom: 12px;
